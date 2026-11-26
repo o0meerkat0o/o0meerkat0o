@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=DDD6FE&text=Hi%2C%20I'm%20Meira&fontSize=44&fontColor=5B21B6&fontAlignY=36&desc=Cornell%20University&descAlignY=58&descSize=18&descColor=7C3AED" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=DDD6FE&text=Hi%2C%20I'm%20Meira!&fontSize=44&fontColor=5B21B6&fontAlignY=36&desc=Cornell%20University&descAlignY=58&descSize=18&descColor=7C3AED" alt="header" />
 
 **CS and ECE student at Cornell.**
 
