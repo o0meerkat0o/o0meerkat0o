@@ -31,6 +31,7 @@
 
 [![Email](https://img.shields.io/badge/Email-mc3227%40cornell.edu-DDD6FE?style=flat-square&logo=gmail&logoColor=5B21B6)](mailto:mc3227@cornell.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-BAE6FD?style=flat-square&logo=linkedin&logoColor=075985)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Resume](https://img.shields.io/badge/Resume-PDF-FBCFE8?style=flat-square&logo=readthedocs&logoColor=9D174D)]
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=FBCFE8&section=footer" alt="footer" />
