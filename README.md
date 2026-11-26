@@ -4,7 +4,7 @@
 
 **CS and ECE student at Cornell.**
 
-![Seattle](https://img.shields.io/badge/Seattle-99F6E4?style=for-the-badge)
+![📍 Seattle](https://img.shields.io/badge/Seattle-99F6E4?style=for-the-badge)
 
 </div>
 
