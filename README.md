@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=DDD6FE&text=Hi%2C%20I'm%20Meira!&fontSize=44&fontColor=5B21B6&fontAlignY=36&descAlignY=58&descSize=18&descColor=7C3AED" alt="header" />
+<img src="https://raw.githubusercontent.com/o0meerkat0o/o0meerkat0o/main/assets/header.svg" alt="header" />
 
 **CS and ECE student at Cornell University.**
 
-![ ⟟ Seattle](https://img.shields.io/badge/Seattle-99F6E4?style=for-the-badge)
+![ ⟟ Seattle](https://img.shields.io/badge/Seattle-FBCFE8?style=for-the-badge)
 
 </div>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/o0meerkat0o/o0meerkat0o/main/assets/divider.svg" alt="divider" width="100%" />
+</div>
 
 ### What I've been working on
 
@@ -18,21 +20,21 @@
 
 ### Tools I use
 
-![C](https://img.shields.io/badge/C-DDD6FE?style=flat-square&logo=c&logoColor=5B21B6)
+![C](https://img.shields.io/badge/C-FBCFE8?style=flat-square&logo=c&logoColor=9D174D)
 ![C++](https://img.shields.io/badge/C++-FBCFE8?style=flat-square&logo=cplusplus&logoColor=9D174D)
-![Python](https://img.shields.io/badge/Python-99F6E4?style=flat-square&logo=python&logoColor=0F766E)
-![Java](https://img.shields.io/badge/Java-FDE68A?style=flat-square&logo=openjdk&logoColor=92400E)
-![PyTorch](https://img.shields.io/badge/PyTorch-FECDD3?style=flat-square&logo=pytorch&logoColor=9F1239)
-![Verilog](https://img.shields.io/badge/Verilog-C7D2FE?style=flat-square)
-![Git](https://img.shields.io/badge/Git-FED7AA?style=flat-square&logo=git&logoColor=9A3412)
-![Linux](https://img.shields.io/badge/Linux-BAE6FD?style=flat-square&logo=linux&logoColor=075985)
+![Python](https://img.shields.io/badge/Python-FBCFE8?style=flat-square&logo=python&logoColor=9D174D)
+![Java](https://img.shields.io/badge/Java-FBCFE8?style=flat-square&logo=openjdk&logoColor=9D174D)
+![PyTorch](https://img.shields.io/badge/PyTorch-FBCFE8?style=flat-square&logo=pytorch&logoColor=9D174D)
+![Verilog](https://img.shields.io/badge/Verilog-FBCFE8?style=flat-square)
+![Git](https://img.shields.io/badge/Git-FBCFE8?style=flat-square&logo=git&logoColor=9D174D)
+![Linux](https://img.shields.io/badge/Linux-FBCFE8?style=flat-square&logo=linux&logoColor=9D174D)
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/Email-mc3227%40cornell.edu-DDD6FE?style=flat-square&logo=gmail&logoColor=5B21B6)](mailto:mc3227@cornell.edu)
+[![Email](https://img.shields.io/badge/Email-mc3227%40cornell.edu-FBCFE8?style=flat-square&logo=gmail&logoColor=9D174D)](mailto:mc3227@cornell.edu)
 [![Resume](https://img.shields.io/badge/Resume-PDF-FBCFE8?style=flat-square&logo=readthedocs&logoColor=9D174D)](https://github.com/o0meerkat0o/o0meerkat0o/blob/main/meira28resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-BAE6FD?style=flat-square&logo=linkedin&logoColor=075985)](https://www.linkedin.com/in/meira-c/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FBCFE8?style=flat-square&logo=linkedin&logoColor=9D174D)](https://www.linkedin.com/in/meira-c/)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=FBCFE8&section=footer" alt="footer" />
+<img src="https://raw.githubusercontent.com/o0meerkat0o/o0meerkat0o/main/assets/footer.svg" alt="footer" width="100%" />
 </div>
