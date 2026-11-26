@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/o0meerkat0o/o0meerkat0o/main/assets/header.svg" alt="header" />
+<img src="https://raw.githubusercontent.com/o0meerkat0o/o0meerkat0o/main/header.svg" alt="header" />
 
 **CS and ECE student at Cornell University.**
 
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/o0meerkat0o/o0meerkat0o/main/assets/divider.svg" alt="divider" width="100%" />
+<img src="https://raw.githubusercontent.com/o0meerkat0o/o0meerkat0o/main/divider.svg" alt="divider" width="100%" />
 </div>
 
 ### What I've been working on
@@ -36,5 +36,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FBCFE8?style=flat-square&logo=linkedin&logoColor=9D174D)](https://www.linkedin.com/in/meira-c/)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/o0meerkat0o/o0meerkat0o/main/assets/footer.svg" alt="footer" width="100%" />
+<img src="https://raw.githubusercontent.com/o0meerkat0o/o0meerkat0o/main/footer.svg" alt="footer" width="100%" />
 </div>
